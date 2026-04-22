@@ -87,7 +87,7 @@ All notebooks run on **Google Colab**. Open directly:
 
 | Notebook | Open in Colab |
 |---|---|
-| Tasks 1–3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DemetrisPitsillides/MAI623_DSC514_-No-Link-Provided-_Spring_2026/blob/main/Tasks_1+2+3_Final_.ipynb) |
+| Tasks 1–3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DemetrisPitsillides/MAI623_DSC514_-No-Link-Provided-_Spring_2026/blob/main/Task_1+2+3_Final.ipynb) |
 | Parser | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DemetrisPitsillides/MAI623_DSC514_-No-Link-Provided-_Spring_2026/blob/main/parser_to_md.ipynb) |
 | RoBERTa | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DemetrisPitsillides/MAI623_DSC514_-No-Link-Provided-_Spring_2026/blob/main/Roberta_Model.ipynb) |
 | Cognee (Task 4) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DemetrisPitsillides/MAI623_DSC514_-No-Link-Provided-_Spring_2026/blob/main/Cognee.ipynb) |
